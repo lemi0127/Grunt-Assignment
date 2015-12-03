@@ -1,0 +1,11 @@
+main{
+    margin: 0 0 50px;
+    
+}
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+}
